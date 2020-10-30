@@ -1,5 +1,4 @@
 # aiLab
-Chandigarh University - <b>Computer Science Engineering </b> 2020-24 <br>
 <b>FOUNDATIONS OF AI APPLICATIONS LAB</b> (20ECP-118) <br> <br>
 
 <b>Experiment-1</b>: <br>
