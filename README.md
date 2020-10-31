@@ -5,8 +5,8 @@
 <ol type = "i">
 <li><b><a href = "">Class Task 1 (i) </a></b> -  </li>
 <li><b><a href = "">Class Task 1 (ii) </a></b> -  </li>
-<li><b><a href = "">Class Task 2</a></b> - Program "'Game Over' 2.0" </li>
-<li><b><a href = "">Class Task 3</a></b> - Program "Fancy Credits" </li>
+<li><b><a href = "">Class Task 2</a></b> - Program <i>"'Game Over' 2.0"</i> </li>
+<li><b><a href = "">Class Task 3</a></b> - Program <i>"Fancy Credits"</i> </li>
 <li><b><a href = "">Class Task 4</a></b> - Silly strings program (concatenation and repetition) </li>
 <li><b><a href = "">Class Task 5</a></b> - Creating and Using Variables </li>
 <li><b><a href = "">Class Task 6</a></b> - Quotation Manipulation </li>
@@ -14,7 +14,7 @@
 <li><b><a href = "">Class Task 8</a></b> - Trust Fund Good </li>
 </ol>
 <ol type = "I">
-<li><b><a href = "https://github.com/aaryarajoju/cu-py/blob/main/Experiment-1/Exp-1_Task-1.py">Task 1</a></b> - Write a Program, to print any ASCII Art from the website http://www.chris.com/ascii/. </li>
+<li><b><a href = "https://github.com/aaryarajoju/cu-py/blob/main/Experiment-1/Exp-1_Task-1.py">Task 1</a></b> - Write a Program, to print any ASCII Art from the website <i>http://www.chris.com/ascii/.</i> </li>
 <li><b><a href = "https://github.com/aaryarajoju/cu-py/blob/main/Experiment-1/Exp-1_Task-2.py">Task 2</a></b> - Write a Program to print (in the middle of the screen) your Name, UID and Section as listed below using only one print statement. </li>
 <li><b><a href = "https://github.com/aaryarajoju/cu-py/blob/main/Experiment-1/Exp-1_Task-3.py">Task 3</a></b> - Write a Personal Greeter Program. </li>
 </ol><br>
