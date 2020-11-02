@@ -36,9 +36,9 @@
 <li><a href = "https://github.com/aaryarajoju/cu-py/blob/main/Experiment-2/Exp-2_ClassTask-13.py">Class Task 13</a> - Birthday Wishes </li>
 </ol>
 <ol type = "I">
-<li><b><a href = "">Task 1</a></b> -  </li>
-<li><b><a href = "">Task 2</a></b> -  </li>
-<li><b><a href = "">Task 3</a></b> -  </li>
-<li><b><a href = "">Task 4</a></b> -  </li>
-<li><b><a href = "">Task 5</a></b> -  </li>
+<li><b><a href = "https://github.com/aaryarajoju/cu-py/blob/main/Experiment-2/Exp-2_Task-1.py">Task 1</a></b> - WAP to take word input from user and display the input in jumbled form. </li>
+<li><b><a href = "https://github.com/aaryarajoju/cu-py/blob/main/Experiment-2/Exp-2_Task-2.py">Task 2</a></b> - Write a Python function to find the Max of three numbers. </li>
+<li><b><a href = "https://github.com/aaryarajoju/cu-py/blob/main/Experiment-2/Exp-2_Task-3.py">Task 3</a></b> - Write a Python function that takes a list and returns a new list with unique elements of the first list. </li>
+<li><b><a href = "https://github.com/aaryarajoju/cu-py/blob/main/Experiment-2/Exp-2_Task-4.py">Task 4</a></b> - Write a Python program to find the number of notes (Sample of notes: 10, 20, 50, 100, 200 and 500) against a given amount </li>
+<li><b><a href = "https://github.com/aaryarajoju/cu-py/blob/main/Experiment-2/Exp-2_Task-5.py">Task 5</a></b> - Create a program <i>wages.py</i> that assumes people are paid double time for hours over 60. They get paid for at most 20 hours overtime at 1.5 times the normal rate. </li>
 </ol>
