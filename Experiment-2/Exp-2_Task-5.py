@@ -8,6 +8,7 @@ import random
 def printSalary(hours, wage):
     if hours < 40:
         print("The salary cannot be generated")
+        print('\a')
     elif hours >= 40 :
         print(salary(hours, wage))
 
