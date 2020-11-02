@@ -1,5 +1,5 @@
 # EXPERIMENT - 1
-#TASK - 1 : WAP to take word input from user and display the input in jumbled form
+# TASK - 1 : WAP to take word input from user and display the input in jumbled form
 
 import random
 
