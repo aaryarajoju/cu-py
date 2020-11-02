@@ -8,4 +8,5 @@ def uniqueList(l):
       x.append(a)
   return x
 
+#main
 print(uniqueList([1,2,3,3,3,3,4,5,5,5])) 
