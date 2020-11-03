@@ -14,12 +14,12 @@ def printSalary(hours, wage):
 
 def salary(hours, wage):
     if hours == 40:
-        salary = 40 * wage
+        OTsalary = 40 * wage
     elif hours > 40 and hours < 60:
-        salary = 40 * wage + (hours-40)*(1.5*wage)
+        OTsalary = 40 * wage + (hours-40)*(1.5*wage)
     elif hours > 60:
-        salary = 40 * wage + 20*(1.5*wage) + (hours-60)*(2*wage)
-    return salary
+        OTsalary = 40 * wage + 20*(1.5*wage) + (hours-60)*(2*wage)
+    return OTsalary
 
 #main
 numOfHours  = random.randint(35,75)
