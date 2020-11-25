@@ -1,6 +1,6 @@
 # aiLab
 <b>FOUNDATIONS OF AI APPLICATIONS LAB</b> (20ECP-118) <br> <br>
-
+<!--
 <b><a href = "https://github.com/aaryarajoju/cu-py/tree/main/Experiment-1">Experiment-1</a> : Understand program flow control in Python</b><br>
 <ol type = "i">
 <li><a href = "https://github.com/aaryarajoju/cu-py/blob/main/Experiment-1/Exp-1_ClassTask-1(1).py">Class Task 1 (i) </a> -  </li>
@@ -18,7 +18,7 @@
 <li><b><a href = "https://github.com/aaryarajoju/cu-py/blob/main/Experiment-1/Exp-1_Task-2.py">Task 2</a></b> - Write a Program to print (in the middle of the screen) your Name, UID and Section as listed below using only one print statement. </li>
 <li><b><a href = "https://github.com/aaryarajoju/cu-py/blob/main/Experiment-1/Exp-1_Task-3.py">Task 3</a></b> - Write a Personal Greeter Program. </li>
 </ol><br>
-
+<!--
 <b><a href = "https://github.com/aaryarajoju/cu-py/tree/main/Experiment-2">Experiment-2</a> : Explore functions, list, tuples & ranges in Python</b><br>
 <ol type = "i">
 <li><a href = "https://github.com/aaryarajoju/cu-py/blob/main/Experiment-2/Exp-2_ClassTask-01.py">Class Task 1 </a> - Craps Roller Program </li>
@@ -42,5 +42,3 @@
 <li><b><a href = "https://github.com/aaryarajoju/cu-py/blob/main/Experiment-2/Exp-2_Task-4.py">Task 4</a></b> - Write a Python program to find the number of notes (Sample of notes: 10, 20, 50, 100, 200 and 500) against a given amount </li>
 <li><b><a href = "https://github.com/aaryarajoju/cu-py/blob/main/Experiment-2/Exp-2_Task-5.py">Task 5</a></b>, <b><a href = "https://github.com/aaryarajoju/cu-py/blob/main/Experiment-2/Exp-2_Task-5%20(simplified).py">Task 5(Simplified)</a></b> - Create a program <i>wages.py</i> that assumes people are paid double time for hours over 60. They get paid for at most 20 hours overtime at 1.5 times the normal rate. </li>
 </ol>
-
-
